@@ -335,7 +335,7 @@ of Landsat imagery, 1987-2010. Remote Sens Environ. 2014;141:
 
 ![](img/aplicacion2_im1.png){width="100%" fig-align="center"}
 
-## Aplicación 2: Expansión urbana
+## Aplicación 2: Expansión urbana {.smaller}
 
 `Título:` Rates and patterns of urban expansion in China’s 32 major
 cities over the past three decades. (Zhao et al., 2015)
@@ -357,9 +357,12 @@ China’s 32 major cities over the past three decades. Landsc Ecol.
 
 ![](img/desguldad_RM2.png){width="100%" fig-align="center"}
 
-## Aplicación 4: Sequía en Chile
+## Aplicación 4: Sequía en Chile {.smaller}
 
-Impacto de la sequía en los diferentes uso de suelo a lo largo de Chile entre 1981-2023 (Zambrano et al., 2024) 
+Impacto de la sequía en los diferentes uso de suelo a lo largo de Chile entre 1981-2023.
+
+> Zambrano, F., Vrieling, A., Meza, F., Duran-Llacer, I., Fernández, F., Venegas-González, A., Raab, N., & Craven, D. (2024). Shifts in water supply and demand drive land cover change across Chile. https://doi.org/10.31223/X5CD80
+
 
 ## {background-image="img/articulo_sequia_study_map.png" background-size="contain"}
 
