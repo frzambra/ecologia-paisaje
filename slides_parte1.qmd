@@ -1,5 +1,5 @@
 ---
-title: "Ecología del Paisaje (1/2)"
+title: "Ecología del Paisaje"
 subtitle: "Ecología Integrativa"
 author: "Francisco Zambrano"
 date: "2024-08-27"
@@ -17,10 +17,10 @@ format:
 
 - **27 de agosto:** Conceptos de ecología del paísaje
     1. Introducción a ecología del paisaje
-    2. Términos relevantes
     2. Conceptos de ecología del paisaje
-    3. Ejemplo
-    4. Aplicaciones desde la teledeteción
+    3. Términos relevantes
+    4. Ejemplo
+    5. Aplicaciones desde la teledeteción
 
 - **3 de septiembre:** Aplicación de metricas de ecología del paisaje en la cuenca del  río Aconcagua
 
