@@ -55,6 +55,7 @@ rsconnect/
 ## ingorar carpeta data
 
 **/data
+/material_ignacio
 
 ### R.Bookdown Stack ###
 # R package: bookdown caching files

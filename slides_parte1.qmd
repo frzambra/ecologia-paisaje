@@ -1,8 +1,8 @@
 ---
-title: "Ecologia del Paisaje (1/2)"
+title: "Ecología del Paisaje (1/2)"
 subtitle: "Ecología Integrativa"
 author: "Francisco Zambrano"
-date: "24 julio 2023"
+date: "2024-08-27"
 format: 
   revealjs:
     slide-number: true
@@ -15,14 +15,14 @@ format:
 
 ## Contenidos
 
-- 24 de Julio: Conceptos de ecología del paísaje
+- **27 de agosto:** Conceptos de ecología del paísaje
     1. Introducción a ecología del paisaje
     2. Términos relevantes
     2. Conceptos de ecología del paisaje
     3. Ejemplo
     4. Aplicaciones desde la teledeteción
 
-- 14 de agosto: Aplicación de metricas de ecología del paisaje en la cuenca del  río Aconcagua
+- **3 de septiembre:** Aplicación de metricas de ecología del paisaje en la cuenca del  río Aconcagua
 
 # 1. Introducción a Ecología del Paisaje {background-color='grey'}
 
@@ -71,11 +71,144 @@ format:
 
 ![](img/patrones_escalas.png)
 
+# 3. Conceptos de ecología del paisaje {background-color='orange'}
+
+## 1. Paisaje {.smaller background-image="img/Cuesta_del_obispo_01.jpg" background-position="50% 100%"}
+
+`Diccionario:` Extensión de terreno vista desde un lugar determinado y considerada como espectáculo.
+
+## 1. Paisaje {.smaller }
+
+> Un área geográfica en que las variables de interés son espacialmente heterogéneas. Sus bordes pueden ser delineados en base a unidades geográficas, ecológicas o administrativas, que sean relevantes para la pregunta y objetivos de investigación. (Wu 2012)
+
+![](img/landscapes_types_ejemplo.png){width="60%" fig-align="center"}
+
+## 2. Heterogeneidad {.smaller}
+
+La cualidad de consistir de `elementos diferentes`, como con mezcla de hábitats o tipos de cobertura que ocurren en un paisaje; `opuesto de homogeneidad`, en que los elementos son iguales.
+
+ > En términos generales podemos entender que un sistema cualquiera será heterogéneo siempre y cuando posea diversidad interna.
+
+ ![](img/homogeneo2heterogeneo.png){width="100%" fig-align='center'}
+
+## 2. Heterogeneidad {.smaller}
+
+>La `heterogeneidad espacial` está definida por la `composición` de elementos que integran el sistema y su `configuración` espacial.
+
+![](img/heterogeneidad.png){width="100%" fig-align="center"}
+
+La `heterogeneidad espacial` influencia la forma en que `interactúan` los `componentes` de un `sistema`, y por tanto, los `procesos ecológicos` asociados a éste.
+
+<!-- ## 2. Heterogeneidad {background-image='img/ejemplo_heterogeneidad.png' background-size="100%"} -->
+
+## 2. Heterogeneidad {.smaller}
+
+La heterogeneidad es una característica `escala-dependiente`.
+
+![](img/heterogeneidad_escala-dependiente.png){width="100%"}
+
+## 3. Escala {.smaller}
+
+> Dimensión `espacial` o `temporal` de un objeto o proceso, caracterizada
+tanto por `grano` como por su `extensión`.
+
+![](img/scale1.png){width="100%" fig-align="center"}
+
+
+## 3. Escala {.smaller}
+
+La escala `espacial` está dada por:
+
+-`Grano:` tamaño del pixel o área de la unidad mínima de muestreo  
+-`Extensión:` tamaño del área de muestreo
+
+![](img/scale2.png){width="100%" fig-align="center"}
+
+## 3. Escala {.smaller}
+
+La escala `temporal` está dada por:
+
+-`Grano:` Frecuencia de muestreo (ventana temporal de muestreo)  
+-`Extensión:` Período de muestreo
+
+![](img/scale3.png){width="100%" fig-align="center"}
+
+## 4. Patrones espaciales {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+Se podría decir que un patrón espacial es la `estructura espacial` de la `heterogeneidad` de los elementos de interés en un área determinada. 
+
+![](img/patronespacial1.png){width="100%"}
+:::
+::: {.column width="50%"}
+![](img/patronespacial2.png){width="100%"}
+:::
+:::
+
+## 4. Patrones espaciales {.smaller}
+
+Los patrones espaciales representan una `interpretación` (cuantitativa o cualitativa) de la `heterogeneidad` espacial. 
+
+![](img/patronespacial3.png){width="100%" fig-align="center"}
+
+## 4. Patrones espaciales {.smaller}
+
+Los patrones espaciales son características escala-dependientes
+
+![](img/patronespacial4.png){width="100%" }
+
+## 5. Procesos ecológicos {.smaller}
+
+Representan las `interacciones` entre los `organismos` y su `ambiente` físico, químico y biológico, a `distintas escalas`.
+
+![](img/proceco1.png){width="100%" fig-align="center"}
+
+
+## 5. Procesos ecológicos {.smaller}
+
+También son fenómenos `escala-dependientes`
+
+![](img/proceco2.png){width="100%" fig-align="center"}
+
+## 6. Jerarquías espaciales {.smaller}
+
+Los sistemas `complejos` (sistemas naturales y socio-ecológicos) usualmente se encuentra `estructurados` de manera `jerárquica` en subsistemas interconectados.
+
+![](img/jerarquia1.png){width="100%" fig-align="center"}
+
+
+## 6. Jerarquías espaciales {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+En un sistema `anidado`, los cambios suelen ser `más rápidos` a escalas `inferiores`, y más `lentos` a escalas `superiores`.
+
+Los niveles de `interacción` son `mayores` `dentro` de un `subsistema`, `que entre subsistemas`.
+
+![](img/jerarquia2.png){width="100%" fig-align="center"}
+
+:::
+::: {.column width="50%"}
+![](img/jerarquia3.png){width="100%" fig-align="center"}
+:::
+:::
+
+## 6. Jerarquías espaciales {.smaller}
+
+En `sistemas jerárquicos` los factores `moduladores` de la `heterogeneidad` actúan desde `arriba estabilizando`, y desde `abajo alterando` los `patrones espaciales` observados en la escala foco.
+
+![](img/jerarquia4.png){width="100%" fig-align="center"}
+
+## Resumiendo
+
+![](img/resumiendo.png){width="100%" fig-align="center"}
+
 ## 2. Términos relevantes {.smaller background-color="'darkgreen"}
 
 1. `Composición:` ¿Qué y cuánto está presente de cada tipo de hábitat o cobertura?
 2. `Configuración:` Una disposición específica de elementos espaciales; a menudo se usa como sinónimo con estructura espacial o estructura parche 
-3. `Tipo de cobertura:` Categoría dentro de un esquema de clasificación definido por el usuario que distingue entre los diferentes hábitats, ecosistemas, vegetación o tipos de paisaje.
+3. `Tipo de cobertura (clase):` Categoría dentro de un esquema de clasificación definido por el usuario que distingue entre los diferentes hábitats, ecosistemas, vegetación o tipos de paisaje.
 
 
 ## {background-image="img/landcover_biobio.png" background-size="50%"}
@@ -101,142 +234,30 @@ format:
 
 ## 2. Términos relevantes {.smaller background-color="'darkgreen"}
 
+9. `Fragmentación:`
+**Por lo general** los procesos de fragmentación en la naturaleza implican pérdida de hábitat.
+
+::: {.columns}
+::: {.column width="50%"}
+La fragmentación del hábitat genera 4 cambios principales en la estructura espacial del paisaje:
+
+- **Aumento del número de parches**
+- **Disminución del tamaño de los parches**
+- **Aumento de la distancia entre parches**
+- **Aumento en la proporción de bordes**
+:::
+::: {.column width="50%"}
+![](img/fragmentacion1.png){width="100%"}
+![](img/fragmentacion2.png){width="100%"}
+:::
+:::
+
+## 2. Términos relevantes {.smaller background-color="'darkgreen"}
+
 10.  `Mosaico de paisaje:` Podemos entender el `paisaje` como un `mosaico` de `distintos` tipos de `parches` (composición) dispuestos en el `espacio` (configuración). 
 
 ![](img/mosaic.png){width="100%" fig-align="center"}
 
-# 3. Conceptos de ecología del paisaje {background-color='orange'}
-
-## Paisaje {.smaller background-image="img/Cuesta_del_obispo_01.jpg" background-position="50% 100%"}
-
-`Diccionario:` Extensión de terreno vista desde un lugar determinado y considerada como espectáculo.
-
-## Paisaje {.smaller }
-
-> Un área geográfica en que las variables de interés son espacialmente heterogéneas. Sus bordes pueden ser delineados en base a unidades geográficas, ecológicas o administrativas, que sean relevantes para la pregunta y objetivos de investigación. (Wu 2012)
-
-![](img/landscapes_types_ejemplo.png){width="60%" fig-align="center"}
-
-## Heterogeneidad {.smaller}
-
-La cualidad de consistir de `elementos diferentes`, como con mezcla de hábitats o tipos de cobertura que ocurren en un paisaje; `opuesto de homogeneidad`, en que los elementos son iguales.
-
- > En términos generales podemos entender que un sistema cualquiera será heterogéneo siempre y cuando posea diversidad interna.
-
- ![](img/homogeneo2heterogeneo.png){width="100%" fig-align='center'}
-
-## Heterogeneidad {.smaller}
-
->La `heterogeneidad espacial` está definida por la `composición` de elementos que integran el sistema y su `configuración` espacial.
-
-![](img/heterogeneidad.png){width="100%" fig-align="center"}
-
-La `heterogeneidad espacial` influencia la forma en que `interactúan` los `componentes` de un `sistema`, y por tanto, los `procesos ecológicos` asociados a éste.
-
-## Heterogeneidad {background-image='img/ejemplo_heterogeneidad.png' background-size="100%"}
-
-## Heterogeneidad {.smaller}
-
-La heterogeneidad es una característica `escala-dependiente`.
-
-![](img/heterogeneidad_escala-dependiente.png){width="100%"}
-
-## Escala {.smaller}
-
-> Dimensión `espacial` o `temporal` de un objeto o proceso, caracterizada
-tanto por `grano` como por su `extensión`.
-
-![](img/scale1.png){width="100%" fig-align="center"}
-
-
-## Escala {.smaller}
-
-La escala `espacial` está dada por:
-
--`Grano:` tamaño del pixel o área de la unidad mínima de muestreo  
--`Extensión:` tamaño del área de muestreo
-
-![](img/scale2.png){width="100%" fig-align="center"}
-
-## Escala {.smaller}
-
-La escala `temporal` está dada por:
-
--`Grano:` Frecuencia de muestreo (ventana temporal de muestreo)  
--`Extensión:` Período de muestreo
-
-![](img/scale3.png){width="100%" fig-align="center"}
-
-## Patrones espaciales {.smaller}
-
-::: {.columns}
-::: {.column width="50%"}
-Se podría decir que un patrón espacial es la `estructura espacial` de la `heterogeneidad` de los elementos de interés en un área determinada. 
-
-![](img/patronespacial1.png){width="100%"}
-:::
-::: {.column width="50%"}
-![](img/patronespacial2.png){width="100%"}
-:::
-:::
-
-## Patrones espaciales {.smaller}
-
-Los patrones espaciales representan una `interpretación` (cuantitativa o cualitativa) de la `heterogeneidad` espacial. 
-
-![](img/patronespacial3.png){width="100%" fig-align="center"}
-
-## Patrones espaciales {.smaller}
-
-Los patrones espaciales son características escala-dependientes
-
-![](img/patronespacial4.png){width="100%" }
-
-## Procesos ecológicos {.smaller}
-
-Representan las `interacciones` entre los `organismos` y su `ambiente` físico, químico y biológico, a `distintas escalas`.
-
-![](img/proceco1.png){width="100%" fig-align="center"}
-
-
-## Procesos ecológicos {.smaller}
-
-También son fenómenos `escala-dependientes`
-
-![](img/proceco2.png){width="100%" fig-align="center"}
-
-## Jerarquías espaciales {.smaller}
-
-Los sistemas `complejos` (sistemas naturales y socio-ecológicos) usualmente se encuentra `estructurados` de manera `jerárquica` en subsistemas interconectados.
-
-![](img/jerarquia1.png){width="100%" fig-align="center"}
-
-
-## Jerarquías espaciales {.smaller}
-
-::: {.columns}
-::: {.column width="50%"}
-En un sistema `anidado`, los cambios suelen ser `más rápidos` a escalas `inferiores`, y más `lentos` a escalas `superiores`.
-
-Los niveles de `interacción` son `mayores` `dentro` de un `subsistema`, `que entre subsistemas`.
-
-![](img/jerarquia2.png){width="100%" fig-align="center"}
-
-:::
-::: {.column width="50%"}
-![](img/jerarquia3.png){width="100%" fig-align="center"}
-:::
-:::
-
-## Jerarquías espaciales {.smaller}
-
-En `sistemas jerárquicos` los factores `moduladores` de la `heterogeneidad` actúan desde `arriba estabilizando`, y desde `abajo alterando` los `patrones espaciales` observados en la escala foco.
-
-![](img/jerarquia4.png){width="100%" fig-align="center"}
-
-## Resumiendo
-
-![](img/resumiendo.png){width="100%" fig-align="center"}
 
 # Ejemplos {background-color="brown"}
 
@@ -257,6 +278,22 @@ En `sistemas jerárquicos` los factores `moduladores` de la `heterogeneidad` act
 
 ![](img/ejemplo4.png){width="100" fig-align="center"}
 
+## ¿Estámos pasando algo por alto? {.smaller}
+
+Si bien las teorías de biogeografía de islas y fragmentación toman en cuenta componentes espaciales del paisaje, no consideran el rol de un componente preponderante en el territorio. ¿Cuál?
+
+![](img/importancia_matriz1.png){fig-align='center'}
+
+## La matriz es un componente clave en las dinámicas ecológicas! {.smaller}
+
+Estos tres paisajes tienen la misma proporción de bosques. 
+¿Dónde creen ustedes que las siguientes especies tendrán mayor viabilidad? ¿Por qué?
+
+1) Roedor endémico especialista de bosques.
+2) Roedor nativo generalista.
+3) Roedor introducido comensal.
+
+![](img/importancia_matriz2.png){fig-align='center'}
 
 # Aplicaciones desde la teledetección {background-color="darkgreen"}
 
@@ -283,34 +320,7 @@ imágenes clasificadas;
 2. identificar el `cambio del paisaje` y su impacto y hacer predicciones `futuras` utilizando modelos `estadísticos`; y 
 3. `cuantificar` la `función` del paisaje.
 
-
-
-
-
-
-## Aplicación 1: Sequía en Chile
-
-Impacto de la sequía en los diferentes uso de suelo a lo largo de Chile entre 1981-2023 (Zambrano et al., 2023) 
-
-## {background-image="img/articulo_sequia_study_map.png" background-size="contain"}
-
-## Aplicación 1: Sequía en Chile
-
-![](img/sequia_chile_tabla_landcover.png){width="100%"}
-
-## Aplicación 1: Sequía en Chile
-
-![](img/sequia_chile_indice_seleccion.png){width="100%"}
-
-## Aplicación 1: Sequía en Chile
-
-![](img/sequia_chile_indice_seleccion_r.png){width="100%"}
-
-## Aplicación 1: Sequía en Chile
-
-![](img/sequia_chile_tabla_cor.png){width="100%"}
-
-## Aplicación 2: Tendencia de cambio en bosques {.smaller}
+## Aplicación 1: Tendencia de cambio en bosques {.smaller}
 
 `Título:` Mapping forest growth and decline in a temperate mixed forest using temporal trend analysis of Landsat imagery, 1987-2010. (Czerwinski et al., 2014)
 
@@ -321,11 +331,11 @@ decline in a temperate mixed forest using temporal trend analysis
 of Landsat imagery, 1987-2010. Remote Sens Environ. 2014;141:
 188–200.
 
-## Aplicación 2: Tendencia de cambio en bosques {.smaller}
+## Aplicación 1: Tendencia de cambio en bosques {.smaller}
 
 ![](img/aplicacion2_im1.png){width="100%" fig-align="center"}
 
-## Aplicación 3: Expansión urbana
+## Aplicación 2: Expansión urbana
 
 `Título:` Rates and patterns of urban expansion in China’s 32 major
 cities over the past three decades. (Zhao et al., 2015)
@@ -338,11 +348,33 @@ China’s 32 major cities over the past three decades. Landsc Ecol.
 
 ## {background-image="img/aplicaciones_urban_expansion.png" background-size="contain"}
 
-## Aplicación 4: Desigualdad ambiental
+## Aplicación 3: Desigualdad ambiental
 
 ![](img/desguldad_RM1.png){width="100%" fig-align="center"}
 
 
-## Aplicación 4: Desigualdad ambiental
+## Aplicación 3: Desigualdad ambiental
 
-![](img/desguldad_RM25 3.png){width="100%" fig-align="center"}
+![](img/desguldad_RM2.png){width="100%" fig-align="center"}
+
+## Aplicación 4: Sequía en Chile
+
+Impacto de la sequía en los diferentes uso de suelo a lo largo de Chile entre 1981-2023 (Zambrano et al., 2024) 
+
+## {background-image="img/articulo_sequia_study_map.png" background-size="contain"}
+
+## Aplicación 4: Sequía en Chile
+
+![](img/sequia_chile_tabla_landcover.png){width="100%"}
+
+## Aplicación 4: Sequía en Chile
+
+![](img/sequia_chile_indice_seleccion.png){width="100%"}
+
+## Aplicación 4: Sequía en Chile
+
+![](img/sequia_chile_indice_seleccion_r.png){width="100%"}
+
+## Aplicación 4: Sequía en Chile
+
+![](img/sequia_chile_tabla_cor.png){width="100%"}
